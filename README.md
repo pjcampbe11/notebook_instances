@@ -157,4 +157,4 @@ Amazon SageMaker notebook instances are fully managed Amazon EC2 instances runni
   - Use lifecycle configuration scripts to automate the setup and configuration of the notebook environment.
 
 This setup ensures that your SageMaker notebook instance is secure, properly configured, and ready for machine learning tasks, while also providing you with the necessary access and control over the Jupyter server running your notebooks.
-"""
+
